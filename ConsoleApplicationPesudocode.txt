@@ -1,0 +1,12 @@
+1. Create string for first name
+2. Create string for last name
+3. Create string for address
+4. Create string for city
+5. Create int for zip code
+6. Print header for person info
+7. Print first name
+8. Print last name
+9. Print address
+10. Print city
+11. Print zip code
+12. Return main
